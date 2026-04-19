@@ -1,0 +1,39 @@
+{
+  "name": "gruber-ocean",
+  "displayName": "Gruber Ocean",
+  "description": "A dark minimal theme based on Gruber Darker with ocean blue functions. Keywords yellow, strings green, types gray, functions blue.",
+  "version": "1.0.1",
+  "publisher": "ruscito",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gruber Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruber-ocean-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruscito/gruber-ocean-vscode"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "minimal",
+    "gruber",
+    "ocean"
+  ],
+  "icon": "icon.png",
+  "bugs": {
+    "url": "https://github.com/ruscito/gruber-ocean-vscode/issues"
+  },
+  "homepage": "https://github.com/ruscito/gruber-ocean-vscode#readme"
+}
